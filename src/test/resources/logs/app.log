@@ -1,0 +1,10 @@
+2025-03-21 19:01:09.583 DEBUG com.cio.base.TestBase - Config file loaded successfully
+2025-03-21 19:01:09.587 DEBUG com.cio.base.TestBase - OR File Loaded Successfully
+2025-03-21 19:01:11.514 DEBUG com.cio.base.TestBase - Chrome Browser Launched Successfully
+2025-03-21 19:01:12.046 DEBUG com.cio.base.TestBase - Browser Navigated to the application https://supportfirst-demo.growipx.com/
+2025-03-21 19:01:12.304 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-21 19:01:12.344 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-21 19:01:13.937 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-21 19:01:13.942 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-21 19:01:15.132 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-21 19:01:15.134 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

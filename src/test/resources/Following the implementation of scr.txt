@@ -1,0 +1,36 @@
+Following the implementation of scrum meetings, iQMS, BRD Documents, test case creation & execution in Kiwi, bug logging and tracking, and lead reviews of test evidences, we've seen a significant improvement in the quality of our work. As a result, production issues have been reduced.
+The use of metrics such as the number of test cases, number of bugs logged, review comments, sprint tracker sheet for estimation and planning, and sanity test case automation to check build stability has greatly contributed to achieving this improved quality of work.
+
+
+I have published the CIO QA process after approval to the entire team. Please note that I have also communicated to all the leads to monitor the process for their respective teams.
+
+Given our current time constraints, teams are expected to follow a minimum of 80% to 90% of the process for their projects, which includes BRD for new enhancements, Test Cases creation & execution in Kiwi, Bug logging in iQMS, etc.
+
+
+As per the process I've established, Business Analysts (BAs) are drafting Business Requirements Document (BRD) for all new enhancements. This involves incorporating multiple comments from stakeholders gathered across several meetings until the document receives final approval from the user, Project Manager (PM), and Project Management Office (PMO).
+
+This process is designed to ensure that the requirements are well-defined before development begins, leading to greater clarity and reduced ambiguity. In addition, our daily scrum calls provide a platform for the team to clarify any remaining doubts about the requirements with their respective tech leads.
+
+To keep everyone informed, I've been using dashboards and Excel trackers to communicate the status of Change Requests (CRs) and bug fixes to the stakeholders.
+
+
+I have created a process to send SupportFirst ticket statuses to all Business Analysts daily. I have also ensured zero escalations in responding to ticket assignments and responding back to users on time if the ticket is straightforward. Otherwise, we include it in the iQMS backlog and pull it into the Sprint based on the priorities.
+
+
+To ensure a defect free software release to our users, I've created a Selenium framework and trained all QA resources on Java & Selenium. The team has started developing test scripts for sanity test case functionalities, and I've been assisting them in resolving script issues.
+
+While I haven't had the chance to directly communicate with stakeholders or users, I've provided the necessary guidance to the team to ensure seamless communications.
+
+
+I am writing to inform you that we are exploring the use of AI test automation tools to intelligently automate applications in a short period, with self-healing features to minimize maintenance. This initiative is driven by the increasing importance of AI in the IT industry.
+
+After careful analysis, we have selected UiPath's AI-Powered tool for a Proof of Concept (POC). We believe this tool will help us resolve many of the productivity issues we have experienced with Selenium.
+
+I will share the POC reports with the management team in a month's time.
+
+
+I wanted to share my thoughts on the recent QA team deliverables and the feedback I've received regarding my communication style.
+
+I am committed to ensuring that the QA team delivers high-quality work. In the past, I may have used harsh language to push the team to reach their maximum potential. Unfortunately, this led to some team members escalating the issue to HR instead of focusing on self-improvement or correcting their mistakes, without fully grasping our company objectives.
+
+After discussing with HR and the emphasis on preventing harsh communications. I now fully embrace and adhere to company policy. Moving forward, I am dedicated to communicating with the team professionally and respectfully.
